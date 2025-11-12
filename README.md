@@ -26,5 +26,5 @@ Handsome Programmer:
  - ### Victor Lopez
    Side Planner
 
-1 | 2 | 3
------- | ------ | -
+1 | 2 
+Link to the Notebook: | [Link](https://docs.google.com/presentation/d/15vzX9o19eJ20NN563KwPzDcUtpfuHiPJl7_uTbgMW0s/edit?usp=view)
