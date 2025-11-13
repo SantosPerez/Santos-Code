@@ -1,7 +1,7 @@
 # Santos-Code
 8301 Vex Robotics Code
 
-Hey so how about you get your code together alr lil bro? alright get it done bruv.
+This repository serves as a clear and concise documentation of the 8301E team's coding related issues, releases, achievements, and events that might be relevant for future reference and history.
 
 Handsome Programmer:
 
