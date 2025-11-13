@@ -17,8 +17,8 @@ Handsome Programmer:
  - ### Gael Solis
    Builder and side driver
    
- - ### Armando Alejandro
-   Main planner
+ - ### ~~Armando Alejandro~~
+   Former main planner
    
  - ### Sergio Samora
    Builder and main driver
